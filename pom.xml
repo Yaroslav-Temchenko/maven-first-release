@@ -16,9 +16,9 @@
 
   <name>first-maven</name>
   <scm>
-    <connection>scm:git:git@github.com:Yaroslav-Temchenko/apache-maven-starter.git</connection>
-    <developerConnection>scm:git:git@github.com:Yaroslav-Temchenko/apache-maven-starter.git</developerConnection>
-    <url>https://github.com/Yaroslav-Temchenko/apache-maven-starter</url>
+    <connection>scm:git:git@github.com:Yaroslav-Temchenko/maven-first-release.git</connection>
+    <developerConnection>scm:git:git@github.com:Yaroslav-Temchenko/maven-first-release.git</developerConnection>
+    <url>https://github.com/Yaroslav-Temchenko/maven-first-release</url>
   </scm>
 
 <!--  project.groupId-->
